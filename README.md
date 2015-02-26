@@ -1,3 +1,0 @@
-# Android
-FirstApp for android
-
